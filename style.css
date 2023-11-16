@@ -1,0 +1,35 @@
+.title
+{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+.delete-button
+{
+    margin-left: 25px;
+}
+
+#task-input-field
+{
+    padding: 10px;
+    border: 2px solid black;
+    font-size: 25px;
+}
+
+#add-task-button
+{
+    width: 250px;
+    border-radius: 15px;
+    margin-left: 15px;
+    padding: 10px;
+    font-size: 25px;
+    background-color: black;
+    color: white;
+}
+
+#add-task-button:hover
+{
+    background-color: white;
+    color: black;
+}
